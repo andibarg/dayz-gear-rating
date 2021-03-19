@@ -1,0 +1,40 @@
+===Headgear===
+
+{{CompCloth/start}}
+{{CompCloth| [[Ballistic Helmet]]         | 4x3 | 0 | 1000 | 0 | Yes |24.9%| 0.3| 0.5  | 0| 0.26| 0.25| 0| 0.25| 0.25| 0| 0.25}}
+{{CompCloth| [[Baseball Cap]]             | 3x2 | 0 | 110  | 0 | Yes |100%| 0.2|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Flight Helmet]]            | 4x4 | 0 | 1450 | 0 | Yes |49%|0.3| 0.5| 0| 0.5| 0.5| 0| 0.5| 0.5| 0| 0.5}}
+{{CompCloth| [[Hard Hat]]                 | 4x3 | 0 | 470  | 0 | Yes |24.9%| 0.1| 0.5  | 0| 0.5  | 0.75| 0| 0.75| 0.75| 0| 0.75}}
+{{CompCloth| [[Burlap Sack]]              | 2x2 | 0 | 510  | 0 | No  | 100%| 0.3|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Beanie]]                   | 3x2 | 0 | 90   | 0 | Yes |100%| 0.7|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Ushanka]]                  | 3x2 | 0 | 320  | 0 | Yes |100%|1|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Jack-o'-lantern]]          | 2x2 | 0 | 500  | 0 | No  |4.9%| 1    |1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Motorbike Helmet]]         | 4x4 | 0 | 1210 | 0 | Yes |49%|0.7| 0.5| 0| 0.5| 0.75| 0| 0.75| 0.75| 0| 0.75}}
+{{CompCloth|[[Head Torch]]|2x2|1 [[9V Battery]]|200|0|No|24.9%|0|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Bandana]]                  | 3x1 | 0 | 120  | 0 | Yes |100%| 0.4|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Radar Cap]]                | 3x2 | 0 | 160  | 0 | Yes |100%| 0.8|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Beret]]                    | 3x1 | 0 | 230  | 0 | Yes |100%| 0.2|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Flat Cap]]                 | 3x2 | 0 | 240  | 0 | Yes |100%| 0.4|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Zmiovka]]                  | 3x2 | 0 | 110  | 0 | Yes |100%| 0.9|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Cowboy Hat]]               | 3x2 | 0 | 370  | 0 | Yes |49%| 0.4|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Boonie Hat]]               | 3x2 | 1 [[Fishing Hook]]| 170  | 0 | Yes |100%| 0.3  |1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Officer Cap]]              | 3x2 | 0 | 340  | 0 | Yes |79%| 0.2|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Police Cap]]               | 3x2 | 0 | 320  | 0 | Yes |79%| 0.2|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Pilotka]]                  | 3x1 | 0 | 140  | 0 | Yes |100%| 0.2|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Tanker Helmet]]            | 4x3 | 0 | 980  | 0 | Yes |100%|0.9|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Assault Helmet]]           | 4x4 | 1 [[Assault Helmet Visor]]| 1100 | 0 | Yes |49%| 0.8| 0.5| 0    | 0.26| 0.25| 0   | 0.25| 0.25| 0   | 0.25}}
+{{CompCloth| [[Firefighter Helmet]]       | 4x3 | 0 | 870  | 0 | Yes |24.9%|0.5| 0.5| 0| 0.5| 0.5| 0| 0.5| 0.5| 0| 0.5}}
+{{CompCloth| [[Skate Helmet]]             | 4x3 | 0 | 460  | 0 | Yes |24.9%| 0.1| 0.5| 0| 0.5| 0.75| 0| 0.75| 0.75| 0| 0.75}}
+{{CompCloth| [[Welding Mask]]             | 3x4 | 0 | 2200 | 0 | Yes |24.9%| 0.1|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Prisoner Cap]]             | 3x2 | 0 | 80   | 0 | No  |100%| 0.1|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Ghillie Hood]]             | 4x3 | 0 | 410  | 0 | Yes |100%| 1    |1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Leather Hat]]              | 4x3 | 0 | 320  | 0 | Yes |24.9%| 0.4|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Scrub Hat]]                | 3x1 | 0 | 460  | 0 | No  |100%| 0.1|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Great Helm]]               | 4x4 | 0 | 2000 | 0 | Yes |24.9%| 0.3| 0.5| 0| 0.5| 0.5| 0| 0.5  | 0.5| 0| 0.5  }}
+{{CompCloth| [[Combat Helmet]]            | 4x3 | 0 | 1500 | 0 | Yes |24.9%| 0.2| 0.5  | 0| 0.5  | 0.5| 0| 0.5  | 0.5| 0| 0.5  }}
+{{CompCloth| [[Enduro Helmet]]            | 4x3 |1 [[Enduro Helmet Visor]], 1 [[Enduro Helmet Mouthguard]]| 1600 | 0 | Yes |24.9%|0.5| 0.5| 0| 0.5| 0.75| 0| 0.75| 0.75| 0| 0.75}}
+{{CompCloth| [[NBC Hood]]                 | 3x2 | 0 | 460  | 0 |Yes|24.9%| 0.4|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Hockey Helmet]]            | 4x3 | 0 | 610  | 0 | Yes |24.9%| 0.1| 0.5| 0| 0.5| 0.75| 0| 0.75| 0.75| 0| 0.75}}
+{{CompCloth| [[Santa Hat]]                | 3x2 | 0 | 450  | 0 | No  |4.9%| 1|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Tactical Helmet]]          | 4x3 |1 [[Night Vision Goggles]], 1 [[Universal Flashlight]]| 1200 | 0 | Yes |24.9%| 0.25| 0.5| 0| 0.26| 0.25| 0| 0.25| 0.25| 0| 0.25}}
+{{CompCloth/end}}

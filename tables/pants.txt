@@ -1,0 +1,27 @@
+===Pants===
+
+{{CompCloth/start}}
+{{CompCloth| [[Jeans]]             | 3x2 | 5x4 | 470  | 1 | Yes |79%| 0.6 |1|1|1| 0.85 | 0.8  | 0.9 | 0.85 | 0.8  | 0.9 }}
+{{CompCloth| [[Cargo Pants]]       | 4x3 | 6x4 | 530  | 2 | Yes |100%| 0.8|1|1|1| 0.9  | 0.9  | 0.9 | 0.9  | 0.9  | 0.9 }}
+{{CompCloth| [[Combat Pants]]      | 4x3 | 6x5 | 2500 | 2 | Yes | 79%| 0.6|1|1|1| 0.85 | 0.8  | 0.9 | 0.85 | 0.8  | 0.9 }}
+{{CompCloth| [[Hunter Pants]]      | 4x3 | 6x4 | 630  | 2 | Yes |49%| 1|1|1|1| 0.9  | 0.9  | 0.9 | 0.9  | 0.9  | 0.9 }}
+{{CompCloth| [[Hiking Pants]]      | 3x2 | 5x4 | 370  | 1 | Yes |100%| 0.3|1|1|1| 0.9  | 0.9  | 0.9 | 0.9  | 0.9  | 0.9 }}
+{{CompCloth| [[Crop Hiking Pants]] | 3x2 | 5x4 | 370  | 1 | Yes |100%| 0.2|1|1|1| 0.9  | 0.9  | 0.9 | 0.9  | 0.9  | 0.9 }}
+{{CompCloth| [[Tracksuit Pants]]   | 3x2 | 5x4 | 490  | 1 | Yes |100%| 0.5 |1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Patrol Pants]]      | 4x3 | 6x5 | 400  | 2 | Yes |24.9%| 0.4|1|1|1| 0.9  | 0.9  | 0.9 | 0.9  | 0.9  | 0.9 }}
+{{CompCloth| [[Police Pants]]      | 3x2 | 5x4 | 510  | 1 | Yes |100%| 0.5|1|1|1| 0.9  | 0.9  | 0.9 | 0.9  | 0.9  | 0.9 }}
+{{CompCloth| [[OREL Police Pants]] | 4x3 | 6x4 | 520  | 2 | Yes |79%| 0.5|1|1|1| 0.9  | 0.85 | 0.9 | 0.9  | 0.85 | 0.9 }}
+{{CompCloth| [[Paramedic Pants]]   | 4x3 | 6x4 | 390  | 1 | Yes |79%| 0.5|1|1|1| 0.9  | 0.9  | 0.9 | 0.9  | 0.9  | 0.9 }}
+{{CompCloth| [[Firefighter Pants]] | 4x4 | 6x4 | 2500 | 1 | Yes |24.9%| 1|1|1|1| 0.9  | 0.9  | 0.9 | 0.9  | 0.9  | 0.9 }}
+{{CompCloth| [[Prisoner Pants]]    | 3x2 | 5x4 | 310  | 1 | Yes |100%| 0.3|1|1|1| 0.9  | 0.9  | 0.9 | 0.9  | 0.9  | 0.9 }}
+{{CompCloth| [[Leather Pants]]     | 4x4 | 6x4 | 590  | 2 | Yes |24.9%| 1|1|1|1| 0.7  | 0.6  | 0.8 | 0.7  | 0.6  | 0.8 }}
+{{CompCloth| [[Scrub Pants]]       | 3x2 | 5x4 | 500  | 1 | Yes |100%| 0.05|1|1|1| 0.9  | 0.9  | 0.9 | 0.9  | 0.9  | 0.9 }}
+{{CompCloth| [[CUU Pants]]         | 4x3 | 6x5 | 872  | 2 | Yes |79%| 0.6|1|1|1| 0.9  | 0.85 | 0.9 | 0.9  | 0.85 | 0.9 }}
+{{CompCloth| [[Suit Pants]]        | 3x2 | 5x4 | 184  | 1 | Yes |100%| 0.4| 1    |1| 1   | 1    | 0.9  | 1   | 1    | 0.9  | 1   }}
+{{CompCloth| [[BDU Pants]]         | 4x3 | 6x5 | 1361 | 2 | Yes |79%| 0.6|1|1|1| 0.9  | 0.85 | 0.9 | 0.9  | 0.85 | 0.9 }}
+{{CompCloth| [[NBC Pants]]         | 3x2 | 5x4 | 520  | 0 |Yes|24.9%| 0.4|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Capri Pants]]       | 3x2 | 5x4 | 470  | 1 | Yes |100%| 0.3|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Denim Shorts]]      | 3x1 | 5x4 | 470  | 1 | Yes |79%| 0.1|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Denim Skirt]]       | 3x1 | 5x4 | 470  | 1 | Yes |100%| 0.1|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Jumpsuit Pants]]    | 3x2 | 5x4 | 500  | 2 | Yes |100%| 0.5|1|1|1| 0.9  | 0.9  | 0.9 | 0.9  | 0.9  | 0.9 }}
+{{CompCloth/end}}

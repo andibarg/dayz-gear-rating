@@ -1,0 +1,19 @@
+===Backpacks===
+
+{{CompCloth/start}}
+{{CompCloth| [[Assault Backpack]]   | 4x5 | 7x6  | 900  | 0 | Yes |79%| 0.6|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Burlap Backpack]]    | 4x5 | 7x6  | 2400 | 0 | Yes |100%| 0.4|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Burlap Courier Bag]] | 4x4 | 6x5  | 900  | 0 | Yes |100%| 0.3|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Combat Backpack]]    | 5x6 | 9x7  | 2100 | 0 | Yes |79%| 0.8|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Drybag Backpack]]    | 5x6 | 9x7  | 600  | 0 | Yes |24.9%|0.5|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Field Backpack]]     | 6x7 | 10x9 | 1600 | 0 | Yes |79%| 0.8|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Fur Backpack]]       | 4x5 | 7x6  | 3300 | 0 | Yes |100%| 0.4|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Fur Courier Bag]]    | 4x4 | 6x5  | 1200 | 0 | Yes |100%| 0.3|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Hiking Backpack]]    | 4x5 | 7x6  | 1300 | 0 | Yes |79%| 0.5|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Hunter Backpack]]    | 5x6 | 9x7  | 1400 | 0 | Yes | 49%| 0.7|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Leather Backpack]]   | 5x6 | 9x7  | 1300 | 0 | Yes |24.9%| 0.8|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Mountain Backpack]]  | 5x7 | 10x8 | 2300 | 0 | Yes |79%| 1|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[School Backpack]]    | 4x4 | 6x5  | 1850 | 0 | Yes |49%| 0.1|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Tactical Backpack]]  | 5x6 | 9x7  | 2600 | 0 | Yes |79%| 0.9|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Utility Buttpack]]   | 4x4 | 6x5  | 600  | 0 | Yes |79%| 0.2|1|1|1|1|1|1|1|1|1}}
+{{CompCloth/end}}

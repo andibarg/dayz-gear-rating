@@ -1,0 +1,11 @@
+===Hands and Arms===
+
+{{CompCloth/start}}
+{{CompCloth| [[Armband]]         |1x2| 0 | 80  | 0 | Yes |100%| 0|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Working Gloves]]  | 2x2 | 0 | 130 | 0 | Yes |49%| 0.5|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Tactical Gloves]] | 3x2 | 0 | 454 | 0 | Yes |79%| 0.6|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[NBC Gloves]]      | 2x3 | 0 | 454 | 0 | Yes |24.9%| 0.35|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Surgical Gloves]] | 1x1 | 0 | 100 | 0 | Yes |24.9%| 0.05 |1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Leather Gloves]]  | 2x2 | 0 | 200 | 0 | Yes |24.9%| 1|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Combat Gloves]]   | 2x2 | 0 | 450 | 0 | Yes |79%| 0.8|1|1|1|1|1|1|1|1|1}}
+{{CompCloth/end}}

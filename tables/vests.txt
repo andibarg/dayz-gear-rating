@@ -1,0 +1,15 @@
+===Vests===
+
+{{CompCloth/start}}
+{{CompCloth| [[Plate Carrier]]   | 4x4 |1 [[Pouches]]<br>1 [[Holster]]<br>4 Grenades| 12000 | 0 | Yes |49%| 0.8| 0.5| 0| 0.26| 0.25| 0| 0.25| 0.25| 0| 0.25}}
+{{CompCloth| [[Assault Vest]]    | 3x3 | 6x5                             | 220   | 3 | Yes |49%| 0.1|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Ballistic Vest]]  | 3x2 | 24 Slots (6x4)<br>4 Grenades| 7000  | 2 | Yes |49%| 0.7| 0.5| 0| 0.5| 0.5| 0| 0.5| 0.5| 0| 0.5}}
+{{CompCloth| [[Field Vest]]      | 3x3 | 30 Slots (6x5)<br>4 Grenades                             | 1900  | 3 | Yes |79%| 0.5|1|1| 1   |1|1| 1    |1|1| 1    }}
+{{CompCloth| [[Stab Vest]]       | 3x2 |4 Grenades| 3500  | 0 | Yes |79%| 0.6| 0.5| 0| 0.5| 0.75| 0| 0.75| 0.75| 0| 0.75}}
+{{CompCloth| [[Holster]]         |2x3| 1x [[Weapons#Pistols Pistol]]   | 110   | 0 | Yes |79%| 0|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Chest Holster]]   | 3x2 | 1x [[Weapons#Pistols Pistol]]   | 310   | 0 | Yes |24.9%| 0|1|1|1|1|1|1|1|1|1}}
+{{CompCloth| [[Tactical Vest]]   | 4x3 |35 Slots (7x5)<br>4 Grenades                             | 2400  | 3 | Yes |79%| 0.75| 0.5| 0|0.5| 0.75| 0| 0.75| 0.75| 0| 0.75}}
+{{CompCloth| [[Leather Vest]]    | 4x3 | 35 Slots (7x5)<br>2 Grenades| 2800  | 3 | Yes |49%|1|1|1|1| 0.7  | 0.6  | 0.8  | 0.7  | 0.6  | 0.8  }}
+{{CompCloth| [[Hunter Vest]]     | 3x2 | 6x4                             | 350   | 0 | Yes |79%| 0.35|1|1|1| 0.9  | 0.9  | 0.9  | 0.9  | 0.9  | 0.9  }}
+{{CompCloth| [[Reflective Vest]] | 3x2 | 0                               | 200   | 0 | Yes |24.9%| 0.2|1|1|1|1|1|1|1|1|1}}
+{{CompCloth/end}}

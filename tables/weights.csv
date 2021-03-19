@@ -1,0 +1,9 @@
+Name,Insulation, Absorbancy, Protection, Weight, Size, Capacity
+headgear,0.3,0.6,1.0,0.2,0.1,0
+masks,1,0.8,0.4,0.2,0.1,0
+shirts and jackets,1,0.8,0.3,0.2,0.1,0.8
+hands and arms,1.0,0.8,0,0.1,0.1,0.0
+vests,0.2,0.4,1,0.5,0.2,0.4
+backpacks,0.2,0.5,0.3,0.1,0.1,1.0
+pants,1,0.8,0.3,0.1,0.1,1.0
+shoes,1,0.8,0.1,0.2,0.1,0
